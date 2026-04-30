@@ -3,7 +3,7 @@
 **Name:** Veronica Perez  
 ---
 
-## 📌 API Used
+## API Used
 
 - **API:** PokeAPI  
 - **Base URL:** https://pokeapi.co/api/v2  
@@ -11,14 +11,14 @@
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 This project demonstrates how to interact with a REST API using Python.  
 I used PokeAPI to retrieve and display Pokémon-related data by making HTTP GET requests, parsing JSON responses, and printing formatted output to the terminal.
 
 ---
 
-## 📌 API Calls Implemented
+## API Calls Implemented
 
 This script makes three distinct API calls:
 
@@ -44,7 +44,7 @@ This script makes three distinct API calls:
 
 ---
 
-## 📌 Sample Output
+## Sample Output
 
 ```text
 --- Pokemon Info ---
