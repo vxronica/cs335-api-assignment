@@ -1,7 +1,6 @@
 # Assignment 01 — Working with AI & ML APIs
 
 **Name:** Veronica Perez  
----
 
 ## API Used
 
@@ -9,14 +8,12 @@
 - **Base URL:** https://pokeapi.co/api/v2  
 - **Authentication:** None required (public API)
 
----
 
 ## Project Description
 
 This project demonstrates how to interact with a REST API using Python.  
 I used PokeAPI to retrieve and display Pokémon-related data by making HTTP GET requests, parsing JSON responses, and printing formatted output to the terminal.
 
----
 
 ## API Calls Implemented
 
@@ -41,8 +38,6 @@ This script makes three distinct API calls:
    - Endpoint: `/pokemon/pikachu/encounters`
    - Displays:
      - Locations where Pikachu can be found
-
----
 
 ## Sample Output
 
